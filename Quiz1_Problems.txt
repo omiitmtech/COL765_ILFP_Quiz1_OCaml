@@ -1,0 +1,6 @@
+
+Q1.  Write a program exists: bool list -> bool which  finds the disjunction of all the elements in a given list of boolean values  using standard list functions such as map, filter and  foldr.    What is its time and space complexity?
+
+Q2.  Write a function zip: 'a list -> 'b list -> ('a * 'b) list, which given two lists (which should be of equal length),  returns a list of pairs of corresponding elements of the input list, raising an exception UnequalLengths if the input lists are not of equal length.  What is its time and space complexity?
+
+Q3. Implement  dotprod: float list * float list -> float which computes the scalar or dot product  of two vectors (written as two float lists) using map, zip, foldr.    What is its time and space complexity?
