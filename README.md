@@ -14,7 +14,7 @@ Introduction to logic and functional programming COL765 - Quiz1 Ocaml
 1. zip [] [];;
 2. zip [] [1;2;3];;
 3. zip [1;2;3] [5;6;7];;
-4. zip [1;2;3] ["aa;"bb";"cc"];;
+4. zip [1;2;3] ["aa";"bb";"cc"];;
 
 1. dotprod [] [];;
 2. dotprod [] [1;2;3];;
